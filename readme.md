@@ -5,6 +5,7 @@ SharpOSC - OSC Library for .NET 6
 This repository is a fork of https://github.com/ValdemarOrn/SharpOSC/ - but introduces CI workflows via GitHub Actions, which do not support write access for forks.
 Therefore a direct clone-and-push was done to workaround this! Please give the original repository a star.
 
+## About
 
 SharpOSC is a small library designed to make interacting with Open Sound Control easy (OSC). It provides the following features:
 
