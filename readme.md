@@ -1,4 +1,4 @@
-SharpOSC - OSC Library for .NET 3.5
+SharpOSC - OSC Library for .NET 6
 ===================================
 
 
